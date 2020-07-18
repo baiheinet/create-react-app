@@ -15,24 +15,10 @@ function App() {
   return (
     <main>
       <h1>华砼工程建设集团</h1>
-      <h2>
-        Deployed with{' '}
-        <a
-          href="https://vercel.com/docs"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          Vercel
-        </a>
-        !
-      </h2>
-      <p>
-       
-       不忘初心，共创美好{' '}
-
-      </p>
+      <h2>改善和丰富每个人的生活</h2>
+      <p></p>
       <br />
-      <h2>The date according to Go is:</h2>
+      <p>The date according to Go is:</p>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
   );
