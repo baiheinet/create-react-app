@@ -30,7 +30,7 @@ class Footer2 extends React.PureComponent {
               React.createElement(
                 item.name.indexOf('title') === 0 ? 'h1' : 'div',
                 { key: i.toString(), ...item },
-                typeof item.children === 'string' && item.children.match(isImg)
+               typeof item.children === 'string' &&  i<2
                   ? React.createElement('img', {
                       src: item.children,
                       alt: 'img',
