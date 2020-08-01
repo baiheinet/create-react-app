@@ -7,7 +7,7 @@ export const Banner30DataSource = {
       {
         name: 'slogan',
         className: 'banner3-slogan kcomeqv60zg-editor_css',
-        children: '华砼工程建设集团',
+        children: '改善和丰富每个人的生活',
         texty: true,
       },
       {
@@ -15,7 +15,7 @@ export const Banner30DataSource = {
         className: 'banner3-name kcvwjdoe3ua-editor_css',
         children: (
 
-          <p>&nbsp; &nbsp;改善和丰富每个人的生活</p>
+          <p>&nbsp; &nbsp;华砼集团</p>
 
         ),
       },
